@@ -1,0 +1,26 @@
+Components :
+
+• Arduino Uno
+
+• ESP32
+
+• 20x4 I2C LCD
+
+• 4x4 Matrix Keypad
+
+• Servo Motor (Door Lock)
+
+• Relay Module
+
+• Ubidots Platform
+
+References :
+Ubidots Documentation
+
+ESP32 with Arduino IDE – Programming Tutorial
+
+Arduino Project Hub – Door Lock Systems
+
+YouTube and online tech forums for troubleshooting
+
+Images:
